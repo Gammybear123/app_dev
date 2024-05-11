@@ -18,8 +18,8 @@
 
 ![alt text](http://picsum.photos/200/200)
 
-## Hollywood
-| Favorite | Movies Genre |
+## Hollywood Genre
+| Horror | Action |
 | ----------- | ----------- |
 | Horror | Action |
 | Paragraph | Text |
