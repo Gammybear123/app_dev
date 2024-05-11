@@ -1,3 +1,3 @@
 # My Favorite Movie
-##Animated
+## Animated
 1. First item
