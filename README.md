@@ -21,7 +21,7 @@
 ## Hollywood Genre
 | Horror | Action |
 | ----------- | ----------- |
-| Paragraph | Text |
-| Paragraph | Text |
-| Paragraph | Text |
-| Paragraph | Text |
+| Insidious | Transformers     |
+| IT        | Alita            |
+| The NUN   | Fast and Furious |
+| The Mummy | Avengers         |
