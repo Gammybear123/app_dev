@@ -18,7 +18,11 @@
 
 ![alt text](http://picsum.photos/200/200)
 
-| Syntax | Description |
+## Hollywood
+| Favorite | Movies Genre |
 | ----------- | ----------- |
-| Header | Title |
+| Horror | Action |
+| Paragraph | Text |
+| Paragraph | Text |
+| Paragraph | Text |
 | Paragraph | Text |
