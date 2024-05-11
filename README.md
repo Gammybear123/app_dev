@@ -18,3 +18,7 @@
 
 ![alt text](http://picsum.photos/200/200)
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
