@@ -21,7 +21,6 @@
 ## Hollywood Genre
 | Horror | Action |
 | ----------- | ----------- |
-| Horror | Action |
 | Paragraph | Text |
 | Paragraph | Text |
 | Paragraph | Text |
